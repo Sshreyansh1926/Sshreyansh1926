@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Frost2204&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
-- 📫 How to reach me *nikunjranjan2204@gmail.com*
+- 📫 How to reach me *sshreyansh62@gmail.com*
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunj-ranjan-668696177/)
