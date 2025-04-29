@@ -15,7 +15,7 @@
 
 ### *Languages and Tools:*
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,androidstudio,cpp,cs,sqlite" />
+  <img src="https://skillicons.dev/icons?i=Java,javascript,html,css,Mysql" />
 </p>
 
 ---
