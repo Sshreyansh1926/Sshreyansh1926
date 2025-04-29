@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikunj</h1>
-<h3 align="center">Game Developer</h3>
+<h1 align="center">Hi 👋, I'm Shreyansh Shekhar</h1>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Frost2204&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
